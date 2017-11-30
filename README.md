@@ -3,13 +3,13 @@
 </br>
 USE
 ====
-##manifest
+## manifest
 ```java
 <activity
       android:name="com.mc.libray.BigImageActivity"
       android:theme="@style/BigImageTheme"/>
 ```
-##code
+## code
 
 ```java
 /**default***/
