@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:3:11-43
+		INJECTED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml
+		INJECTED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml
+		INJECTED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml
+		INJECTED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:5:5-66
+	android:name
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:6:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:9:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\685c2fe6a3e242d9f2c9bc0d03c3dbec3768ff35\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\a29b48d1fe26530cadb109edbfd71c7b500ecb33\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.android\build-cache\27bf492ffc2703feb9dc2bfcbea65963587ca178\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.android\build-cache\5d30fa958870ae26a76717514f9371ac03cc2312\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.android\build-cache\1108cf631eb2259b8eb79481673e26bb4daf7fee\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.android\build-cache\7bf4c575b1d0cdc9bd7b4fc98f6cdd1ddc85c805\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.android\build-cache\7dbee1ec7a74e8bc82c962e629d2c8e7ce94dd7e\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\33acceb0e60dc390dddef5c24c3a9ba37e794e91\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\ad9619fe24bd6592b5bd6bb8a1ca9ec766fa1511\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.android\build-cache\1b24d74aa7aef25db4012b5b5bbc62b12c4b17e4\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:13:9-35
+	android:allowBackup
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.mc.bigimagelibrary.MainActivity
+ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:17:17-68
+	android:name
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:19:17-76
+	android:name
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.mc.libray.BigImageActivity
+ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:22:9-24:51
+	android:theme
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:24:13-49
+	android:name
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:23:13-58
+activity#com.mc.bigimagelibrary.GroupImageActivity
+ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:25:9-26:20
+	android:name
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:25:19-53
+activity#com.mc.bigimagelibrary.ImagesActivity
+ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:27:9-28:20
+	android:name
+		ADDED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml:27:19-49
+uses-sdk
+INJECTED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\685c2fe6a3e242d9f2c9bc0d03c3dbec3768ff35\output\AndroidManifest.xml:5:5-7:41
+MERGED from [BigImageSimple:bigimagelibray:unspecified] E:\git\BigImageSimple\bigimagelibray\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\a29b48d1fe26530cadb109edbfd71c7b500ecb33\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\Administrator\.android\build-cache\27bf492ffc2703feb9dc2bfcbea65963587ca178\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\Administrator\.android\build-cache\5d30fa958870ae26a76717514f9371ac03cc2312\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\Administrator\.android\build-cache\1108cf631eb2259b8eb79481673e26bb4daf7fee\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\Administrator\.android\build-cache\7bf4c575b1d0cdc9bd7b4fc98f6cdd1ddc85c805\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\Administrator\.android\build-cache\7dbee1ec7a74e8bc82c962e629d2c8e7ce94dd7e\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\33acceb0e60dc390dddef5c24c3a9ba37e794e91\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\ad9619fe24bd6592b5bd6bb8a1ca9ec766fa1511\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\Administrator\.android\build-cache\1b24d74aa7aef25db4012b5b5bbc62b12c4b17e4\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\a29b48d1fe26530cadb109edbfd71c7b500ecb33\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml
+		INJECTED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml
+		INJECTED from E:\git\BigImageSimple\app\src\main\AndroidManifest.xml

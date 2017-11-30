@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#fff</color>
+    <!--black-->
+    <color name="m_black_one">#292929</color>
+
+    <color name="translate">#00000000</color>
+</resources>

@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\git\\BigImageSimple\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a29b48d1fe26530cadb109edbfd71c7b500ecb33\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\git\\BigImageSimple\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a29b48d1fe26530cadb109edbfd71c7b500ecb33\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\git\\BigImageSimple\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a29b48d1fe26530cadb109edbfd71c7b500ecb33\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\git\\BigImageSimple\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_exit.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5e5d5346e795e6daae6332bfef7dab5534f4eaec\\output\\res\\anim\\tooltip_exit.xml"
+    },
+    {
+        "merged": "E:\\git\\BigImageSimple\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tooltip_enter.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\5e5d5346e795e6daae6332bfef7dab5534f4eaec\\output\\res\\anim\\tooltip_enter.xml"
+    },
+    {
+        "merged": "E:\\git\\BigImageSimple\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a29b48d1fe26530cadb109edbfd71c7b500ecb33\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\git\\BigImageSimple\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a29b48d1fe26530cadb109edbfd71c7b500ecb33\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\git\\BigImageSimple\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a29b48d1fe26530cadb109edbfd71c7b500ecb33\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\git\\BigImageSimple\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a29b48d1fe26530cadb109edbfd71c7b500ecb33\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\git\\BigImageSimple\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a29b48d1fe26530cadb109edbfd71c7b500ecb33\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\git\\BigImageSimple\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a29b48d1fe26530cadb109edbfd71c7b500ecb33\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\git\\BigImageSimple\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\a29b48d1fe26530cadb109edbfd71c7b500ecb33\\output\\res\\anim\\abc_fade_out.xml"
+    }
+]

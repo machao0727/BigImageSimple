@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="m_black_one">#292929</color>
+    <color name="translate">#00000000</color>
+    <color name="white">#fff</color>
+    <string name="app_name">BigImageLibray</string>
+    <style name="BigImageTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--背景透明-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
