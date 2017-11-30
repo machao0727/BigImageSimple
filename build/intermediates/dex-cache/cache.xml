@@ -38,6 +38,15 @@
         <dex dex="E:\git\BigImageSimple\app\build\intermediates\pre-dexed\debug\classes_7fd04fbb37eeb3193e34e2c6f76392a499ec2dca.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="E:\git\BigImageSimple\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d0c3e56e3bfef8534d4b009c621d3add053dd794">
+        <dex dex="E:\git\BigImageSimple\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_3a60b223c3200eb4aacbd5d7cc93505077227c44\classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="C:\Users\Administrator\.android\build-cache\1108cf631eb2259b8eb79481673e26bb4daf7fee\output\jars\libs\internal_impl-24.2.1.jar"
         jumboMode="false"
@@ -81,6 +90,15 @@
         revision="26.0.2"
         sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
         <dex dex="E:\git\BigImageSimple\app\build\intermediates\pre-dexed\debug\classes_82ae6483971f1489a8636b8f86bded8bb6ac70e4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\git\BigImageSimple\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="12920f9016b8b05acbc2af7cdc13cef6946fe7d3">
+        <dex dex="E:\git\BigImageSimple\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_b264d5563b56110a45e9ae7360ca3ba83c1ea902\classes.dex" />
     </item>
     <item
         is-multidex="false"

@@ -1,4 +1,7 @@
-#Thu Nov 30 11:18:48 CST 2017
-base.0=E\:\\git\\BigImageSimple\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=E\:\\git\\BigImageSimple\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Thu Nov 30 14:29:08 CST 2017
+base.0=E\:\\git\\BigImageSimple\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b264d5563b56110a45e9ae7360ca3ba83c1ea902
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\git\\BigImageSimple\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3a60b223c3200eb4aacbd5d7cc93505077227c44\\classes.dex
+base.1=E\:\\git\\BigImageSimple\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_3a60b223c3200eb4aacbd5d7cc93505077227c44
+file.0=E\:\\git\\BigImageSimple\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_b264d5563b56110a45e9ae7360ca3ba83c1ea902\\classes.dex

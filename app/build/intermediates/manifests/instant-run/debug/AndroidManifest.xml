@@ -30,6 +30,8 @@
             android:theme="@style/BigImageTheme" />
         <activity android:name="com.mc.bigimagelibrary.GroupImageActivity" >
         </activity>
+        <activity android:name="com.mc.bigimagelibrary.ImagesActivity" >
+        </activity>
 
         <provider
             android:name="com.android.tools.fd.runtime.InstantRunContentProvider"
