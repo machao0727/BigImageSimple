@@ -17,13 +17,13 @@ new BigImageBuilder(this)
            .setImages(imageList)
            .setOldImage(oldImgs)
            .setCurrentIndex(i)
-           .setPlaceHolderUrl(plackhoolder)
+           .setPlaceHolderUrl(placeholder)
            .show();
 /**if list(listview...)***/
-new BigImageBuilder((Activity) context)
+new BigImageBuilder(this)
             .setImages(imageList)
-            .setOldImage(wrapOriginImageViewList())
-            .setPlaceHolderUrl(plackhoolder)
-            .setCurrentIndex(position)
+            .setOldImage(oldImgs)
+            .setPlaceHolderUrl(placeholder)
+            .setCurrentIndex(i)
             .setStartPosition("your list FirstVisiblePosition")
             .show();
